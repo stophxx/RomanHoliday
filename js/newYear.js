@@ -1,0 +1,1 @@
+document.write("새해가 밝았습니다");
